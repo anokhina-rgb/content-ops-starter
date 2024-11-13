@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Open corpus
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      The Multilingual Corpus is a set of texts on economics, culture, state
+      policy and other issues in EU. We encourage students to file the reliable
+      information to make our corpus worthy. The corpus files were selected and
+      were partlially preroceessed.
     actions:
       - label: Get started
         altText: ''
