@@ -33,7 +33,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/DALL·E 2024-11-09 09.36.15 - A visually appealing multilingual
+        corpus concept for a social media preview, featuring text snippets in
+        English, German, French, and Ukrainian. The im.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
