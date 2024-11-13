@@ -14,7 +14,7 @@ sections:
       information to make our corpus worthy. The corpus files were selected and
       were partlially preroceessed.
     actions:
-      - label: Get started
+      - label: Welcome
         altText: ''
         url: /
         showIcon: false
